@@ -1,0 +1,36 @@
+/*css - letras*/
+.text-custom {
+  text-shadow: 15px 10px 15px rgba(0,0,0);
+  font-weight: bold;
+}
+
+span.music_slide {
+  font-size: larger;
+}
+
+/*css - bíblia*/
+span.header {
+  display: block;
+  margin-bottom: 10px;
+  white-space: nowrap;
+  font-size: 2px;
+  width: 100%;
+}
+
+ctt {
+  font-size: 70%;
+  padding: 2px 2px;
+}
+
+br+span {
+  visibility: hidden;
+}
+
+.header.bible-header-custom {
+  visibility: hidden;
+}
+
+/*não exibir imagens*/
+.image-custom {
+  visibility: hidden;
+}
